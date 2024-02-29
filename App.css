@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: gray;
+}
+.Main_Conatiner{
+height:140px;
+width:100vh;
+margin-left:30px;
+border:1px solid whitesmoke;
+background-color: white;
+margin-top: 75px;
+}
+
+.heading{
+  float:left;
+  margin-left:5px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.dropdown_button{
+box-shadow: 6 6 6 6 rgba(0,0,0,0.06);
+width:100px;
+}
+.subtasks{
+  float:left;
+  color: blue;
+  display: flex;
+  justify-content: space-between;
+
+}
+
